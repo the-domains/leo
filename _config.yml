@@ -2,6 +2,7 @@ name: Leo
 favicon: null
 layout_spectrum: 0.5169498543255031
 typography_spectrum: 0.6188914459198713
+title: 'Leo, as seen by a robot'
 cta:
   domain: null
   bucket: null
